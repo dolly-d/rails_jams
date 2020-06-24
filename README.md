@@ -7,17 +7,17 @@ Jams Inc. works with tens and tens of artists, so keeping track of their `name`,
 
 ## Create & Read 📓
 In keeping tradition with [RESTful](http://www.restular.com/) routes, Jams Inc. wants you to build out the following deliverables:
-
-* A database of `Artists` that will allow for a `name` string, `age` integer and `bio` string. If you created your database properly, you should be able to seed the database with the given `seeds.rb` file.
-
-* An index page that displays the names of all the artists in your database.
-
+<!-- 
+* A database of `Artists` that will allow for a `name` string, `age` integer and `bio` string. If you created your database properly, you should be able to seed the database with the given `seeds.rb` file. -->
+<!-- 
+* An index page that displays the names of all the artists in your database. -->
+<!-- 
   * A nice to have feature: On the index page, clicking on the name of the artist would link me to their show page(see next deliverable).
+<!--  -->
 
+<!-- * A dynamically generated show page for a single artist that shows their `name`, `age` and `bio`. --> -->
 
-* A dynamically generated show page for a single artist that shows their `name`, `age` and `bio`.
-
-* A form to log a new artist with their `name`, `age` and `bio`. After the form is submitted, the user should be redirected to the saved artist's show page.
+<!-- * A form to log a new artist with their `name`, `age` and `bio`. After the form is submitted, the user should be redirected to the saved artist's show page. -->
 
 After you meet these deliverables, save and commit your code. Celebrate a little because you have now finished the *CR* part of your *CRUD* application.
 If you were using rails best practices (which we know you were) then you also successfully implemented:
